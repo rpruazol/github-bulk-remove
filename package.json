@@ -1,0 +1,27 @@
+{
+  "name": "github-bulk-remove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "remove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpruazol/github-bulk-remove.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpruazol/github-bulk-remove/issues"
+  },
+  "homepage": "https://github.com/rpruazol/github-bulk-remove#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "minimist": "^1.2.5",
+    "prompt-confirm": "^2.0.4",
+    "readline": "^1.3.0",
+    "superagent": "^6.1.0"
+  }
+}

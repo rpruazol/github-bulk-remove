@@ -1,0 +1,10 @@
+rpruazol/test1
+rpruazol/interview
+rpruazol/example-repo
+rpruazol/bus-mall
+rpruazol/test2
+rpruazol/201d39-lab5
+rpruazol/201d39-lab3
+rpruazol/student_randomizer
+rpruazol/cookie-stand
+rpruazol/data-structures-and-algorithms
